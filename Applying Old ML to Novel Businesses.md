@@ -1,0 +1,15 @@
+Title: Applying Old ML to Novel Businesses
+Slug: applying-old-ml-to-novel-businesses
+Tags: Machine Learning, Buisness, Artifical Intelligence
+Image: applying-old-ml-to-novel-businesses.png
+Summary: Artificial intelligence and machine learning are disciplines that cover many methods and systems. There are a ton of powerful tools and libraries that have been built by technologists that are ripe for application to business tasks. There are places where these novel methods can be applied in profitable sectors.
+Date: 2022-12-1 10:00
+
+Artificial intelligence and machine learning are disciplines that cover many methods and systems. There are a ton of powerful tools and libraries that have been built by technologists that are ripe for application to business tasks. There are places where these novel methods can be applied in profitable sectors.
+
+You generally want to start with a business use case, rather than with a technology, but try to get creative about how these various advanced cs strategies can help. We see one uber successful app using some well worn ml, collaborative filtering to help make better recommendations. TikTok looks to what other users have liked similar to you to recommend new videos. By combining moderately complex ml with a new ux and new way of presenting short videos, a new category is born. Make it easy for new user generated content, UX that is mindless, the only interaction point is "stay or scroll", and smart curation of content brings a huge win. They have clearly gotten even more dialed in with their backend algorithm, but the MVP and working prototypes very likely used off the shelf ML tools to produce solid results.
+
+An example that I haven't seen a clear winner at, but might be ripe for disruption is an ML tool that was developed for the world of poker playing robots. Poker is a bit of a different beast in terms of game playing, since it's a game of incomplete information. Chess, go, and many games present the entire universe of the game to the player at all times, and the challenge is to interpret and interact given that. Poker has hidden information in the other players' hole cards. This created a new branch of learning and game theory in the literature called "regret minimization". I can see opportunity for an entrepreneur to take this ml tech and apply it to business where there is incomplete information and competing interests. One obvious application could be in negotiation support. Trying to determine the moves of an opposing party, and maximizing my outcomes.
+
+<br><br>
+I find it fascinating to apply older ML methods to novel and similar situations, and there's no shortage of tools out there. We've blazed a path to solve many categories of problems, so I'd love to see more entrepreneurs applying these tools. I do work in this space, and would like to help you on your journey if this is an area you want to explore.
