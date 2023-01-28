@@ -2,7 +2,7 @@ Title: 12 Mistakes Building Your MVP (and What To Do Instead)
 Slug: 12-mistakes-building-your-mvp-and-what-to-do-instead
 Tags: MVP Practices, MVP Mistakes, MVP Development
 Image: 12-mistakes-building-your-mvp-and-what-to-do-instead.png
-Summary: I've built dozens of MVPs, some were brand launches at Google, some startups that raised $3M in funding, and some productivity tools I conceived that got acquired by bigger companies. Here's some of my hard won knowledge about building a product from the software perspective.
+Summary: I've built dozens of MVPs, some were brand launches at Google, some startups that raised $3M in funding, and some productivity tools I conceived that got acquired by bigger companies. Here's some of my hard won knowledge about building a product from the software perspective
 Date: 2022-01-19 10:00
 
 I've built dozens of MVPs, some were brand launches at Google, some startups that raised $3M in [funding](/budget?ref=mvpengineer.com), and some productivity tools I conceived that got acquired by bigger companies. Here's some of my hard won knowledge about building a product from the software perspective.
